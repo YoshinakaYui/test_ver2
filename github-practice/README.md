@@ -35,6 +35,7 @@
 # Switch branchesでb1ブランチに切り替えてPull Requestを選ぶ
 
 # その後も必要があれば修正を行う
+edit
 # PullRequestを作った後も同じブランチで修正を行って良い
 % git add -u
 % git commit
