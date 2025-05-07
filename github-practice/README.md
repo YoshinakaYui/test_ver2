@@ -36,8 +36,6 @@
 
 # その後も必要があれば修正を行う
 # PullRequestを作った後も同じブランチで修正を行って良い
-edit
-edit
 % git add -u
 % git commit
 % git push origin b1
